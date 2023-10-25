@@ -29,7 +29,7 @@ Enter a given credentials to sign in into django server.
 Add some users according to the user.
 
 
-# output
+# Output
 ![Screenshot 2023-10-25 113157](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-02-Admin/assets/145743219/4e97bc66-a8bc-4980-90b1-eb7d120b9a2d)
 
 

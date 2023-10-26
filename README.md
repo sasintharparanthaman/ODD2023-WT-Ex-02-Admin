@@ -30,7 +30,7 @@ Add some users according to the user.
 
 
 # Output
-![Screenshot 2023-10-26 093720](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-02-Admin/assets/145743219/c8c1ac2a-52fe-4c1f-a2b1-5e0a3ae82165)
+![Screenshot 2023-10-26 094436](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-02-Admin/assets/145743219/b724d371-2922-4765-abdf-ece5e442139c)
 
 
 # Result
